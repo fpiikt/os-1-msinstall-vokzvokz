@@ -7,6 +7,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zAhxiUQbQGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 Повторите шаги, выполняемые в видео, установив на свой компьютер (при наличии системы ОС Windows или на тестовый компьютер, согласовав с преподавателем время и день) разберитесь как устанавливать ПО со следующими параметрами
 
 - тихая установка без запроса пользователю,
