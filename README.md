@@ -70,3 +70,8 @@
 1. https://www.java.com/ru/download/help/silent_install.xml
 2. https://docs.oracle.com/javase/8/docs/technotes/guides/install/config.html#installing_with_config_file
 
+
+
+В отчете о выполнении задания представить скрипты или общий скрипт по установке указанных выше программ, отчет можно (но не обязательно) дополнить скринкастом с комментариями.
+
+Отчет представить с помощью разметки Markdown в собственном репозитории на GitHub (созданным с использованием GitHub Classroom).
