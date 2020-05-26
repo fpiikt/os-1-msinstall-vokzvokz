@@ -10,7 +10,10 @@
 `msiexec /i inkscape-1.0-x64.msi INSTALLDIR="C:\Program Files\Graphics\Inkscape" /qr /norestart /lw "inkscape-log.txt"`
 
 ### LibreOffice
-`msiexec /i LibreOffice_6.4.4_Win_x64.msi /passive /norestart /le "libreoffice-install-log.txt" \nmsiexec /i LibreOffice_6.4.4_Win_x86_helppack_ru.msi /passive /forcerestart /le+ "libreoffice-install-log.txt"`
+```
+msiexec /i LibreOffice_6.4.4_Win_x64.msi /passive /norestart /le "libreoffice-install-log.txt"
+msiexec /i LibreOffice_6.4.4_Win_x86_helppack_ru.msi /passive /forcerestart /le+ "libreoffice-install-log.txt"
+```
 
 ### Notepad++
 `msiexec /i Notepad++7.6.6.msi /quiet`
